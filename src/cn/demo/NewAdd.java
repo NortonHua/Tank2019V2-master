@@ -1,5 +1,7 @@
 package cn.demo;
 
 public class NewAdd {
-    //c这是一个测试git的类
+    public static void main(String[] args) {
+        System.out.println("第二次修改项目！");
+    }
 }
